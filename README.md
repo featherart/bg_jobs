@@ -46,3 +46,5 @@ this will give a list of jobs queued and their timestamps
 
 16. bundle exec sidekiq to start up the sidekiq engine
 sidekiq has a bunch of workers ready to perform the task.
+
+17. bundle exec sidekiq -q critical to put things into a queue that gets executed first
