@@ -1,0 +1,1 @@
+This is an in-class code along to introduce the concept of background jobs to students. We learned about putting processes that don't issue a response to the client into the background so that loads can be distributed. All steps are in the README.txt file, due to weird formatting rules with .md documents.
